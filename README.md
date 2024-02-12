@@ -26,7 +26,7 @@
 <img width="500" src="https://raw.githubusercontent.com/Nuvola12/SyncPodcast/main/res/Screenshot%202024-02-12%20181929.png" />
 
 
-## [Video Sentimate Analysis](https://github.com/conaticus/spaced-repetition) 
+## [Video Sentimate Analysis]() 
 
 
 ## [Package Manager]() 
